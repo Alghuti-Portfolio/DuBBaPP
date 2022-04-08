@@ -6,7 +6,7 @@ from pathlib import Path
 from google.cloud import storage 
 
 #1- Point API to JSON file. 
-storage_client= storage.Client.from_service_account_json(r"/Volumes/GoogleDrive/My Drive/Cloud_Downloads/ml030522-a4be5268534b.json")
+storage_client= storage.Client.from_service_account_json(r"/Volumes/GoogleDrive/My Drive/Cloud_Downloads")
 bucket_name= "NEW_BUCKET_NAME"
 
 #2- Create a new Bucket in Storage. 
