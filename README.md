@@ -4,7 +4,7 @@ CapStone Project @ Rice University's FinTech Program
 This project uses Google Cloud Services. Pydub library is used to pull the audio from the 
 video clip below and saves it as a wav. The app also uploads the audio file in a tmp folder (see below) so that it can be used with the text-to-speech api - named speech-to-text client. 
 
-**Screen Shot of tmp folder created in the Cloud Storage Accound**
+**Screen Shot of tmp folder created in Google Cloud Storage**
 ![Screen Shot 2022-04-08 at 1 19 36 PM](https://user-images.githubusercontent.com/103196346/162516521-ef77684e-b8f3-4f27-8ba5-91b57512e13a.png)
 
 ![Screen Shot 2022-04-08 at 1 20 15 PM](https://user-images.githubusercontent.com/103196346/162516562-099e3295-6d4b-4e36-8526-583cfc949e26.png)
