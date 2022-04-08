@@ -69,7 +69,7 @@ def get_transcripts_json(gcsPath, langCode= "ar", phraseHints=[], speakerCount=1
 
     #client = speech.SpeechClient()  
 
-    client= speech.SpeechClient.from_service_account_json(r"/Users/RiceUniversityFinTech./Downloads/ml030522-b8d0757b09ff.json")
+    client= speech.SpeechClient.from_service_account_json(r"/Users/RiceUniversityFinTech./Downloads/file.json")
     audio = speech.RecognitionAudio(uri=gcsPath)
 
     diarize = speakerCount if speakerCount > 1 else False
