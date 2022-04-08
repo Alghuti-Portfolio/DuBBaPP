@@ -73,8 +73,7 @@ to produce a new movie file dubbed in the languages specified in `targetLang`.
 - Diarization_config tells the API to filters out noise or multiple speakers  
 - See output transcript json() file
 
-**Enhanced Models**using neural network Ai program  
-**NOTE:** the data extracted from this sample is not large enough for use in a Linear Regression or any ML model used to enhance translation.  
+**Enhanced Models** using neural network Ai program **NOTE:** the data extracted from this sample is not large enough for use in a Linear Regression or any ML model used to enhance translation.  
 
 **Step 8**- Feeding Translation Api 
 - chunk the transcript output to feed it into the translation api 
