@@ -1,0 +1,8 @@
+
+"انا سليمان" ,"ابي السلطان ياووز سليم خالد"," وام السلطانه حفصه" -->
+["انا سليمان" ,"ابي السلطان ياووز سليم خالد"," وام السلطانه حفصه"]
+["I am Suleiman the son of Sultan Salim Khan", "My mother Sultana Hafsa Aisha."]
+
+"I am Suleiman the son of Sultan Salim Khan", "My mother Sultana Hafsa Aisha."-->
+["I am Suleiman the son of Sultan Salim Khan", "My mother Sultana Hafsa Aisha."]
+["انا سليمان" ,"ابي السلطان ياووز سليم خالد"," وام السلطانه حفصه"]
