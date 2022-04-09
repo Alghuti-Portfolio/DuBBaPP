@@ -23,9 +23,9 @@ to produce a new movie file dubbed in the languages specified in `targetLang`.
 
 ## Installation Guide
 
-1. Create a new Google Cloud Project.
+A. Create a new Google Cloud Project.
 
-2. Enable these Google Cloud APIs:
+B. Enable these Google Cloud APIs:
 
 - Cloud Storage
 - Speech-to-Text
@@ -35,18 +35,18 @@ to produce a new movie file dubbed in the languages specified in `targetLang`.
 
 ## Technologies and Libraries
 
-> Python
-> HTML
-> JSON
-> Pandas
-> Fire
-> AudioSegment
-> Moviepy
-> Pydub
-> Google-Speech-to-Text-API
-> Google-Translte-API
-> Google-Speech-to-Text
-> Google-Cloud-Storage
+> Python,
+> HTML,
+> JSON,
+> Pandas,
+> Fire,
+> AudioSegment,
+> Moviepy,
+> Pydub,
+> Google-Speech-to-Text-API,
+> Google-Translte-API,
+> Google-Text-to-Speech,
+> Google-Cloud-Storage,
 > TensorFlow 
 
 ---
