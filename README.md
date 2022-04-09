@@ -78,7 +78,7 @@ B. Enable these Google Cloud APIs:
 
 **Enhanced Models** using neural network Ai program **NOTE:** the data extracted from this sample is not large enough for use in a Linear Regression or any ML model used to enhance translation.  
 
-**Step 8:**- Feeding Translation Api 
+**Step 8:** Feeding Translation Api 
 - chunk the transcript output to feed it into the translation api 
 - Identify variables related to sentence structure  
 - Check for gaps for when speaker started and stopped speaking  
