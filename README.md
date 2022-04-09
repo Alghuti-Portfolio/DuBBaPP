@@ -63,11 +63,11 @@ B. Enable these Google Cloud APIs:
 
 **Step 5:** install Pydub Library in order to extract audio from video and save it as a wav  
 
-**Step 6**
+**Step 6:**
 - Upload file into cloud to be used in the speech-to-text api  
 - Call the cloud - Speech to Text Client 
 
-**Step 7** Configure API & Specify the language code - which is what language you are transcribing from.  
+**Step 7:** Configure API & Specify the language code - which is what language you are transcribing from.  
 - Enable automatic punctuation 
 - Enable word time off sets give the exact word and time the speaker said them 
 - Diarization_config tells the API to filters out noise or multiple speakers  
@@ -78,24 +78,24 @@ B. Enable these Google Cloud APIs:
 
 **Enhanced Models** using neural network Ai program **NOTE:** the data extracted from this sample is not large enough for use in a Linear Regression or any ML model used to enhance translation.  
 
-**Step 8**- Feeding Translation Api 
+**Step 8:**- Feeding Translation Api 
 - chunk the transcript output to feed it into the translation api 
 - Identify variables related to sentence structure  
 - Check for gaps for when speaker started and stopped speaking  
 ![Screen Shot 2022-04-08 at 2 46 02 PM](https://user-images.githubusercontent.com/103196346/162516308-686f355a-45d1-46c9-92dd-0e30adc4af27.png)
 
-**Step 9** Call Translation Api   
+**Step 9:** Call Translation Api   
 
 
-**Step 10** Call speech-to-text to speak translated words  
+**Step 10:** Call speech-to-text to speak translated words  
 - Configure api to use different computer voices and speaking rate to speed up or slow down to match the rate of the speaker in the video.   
 
-**Step 11** Correct Error 
+**Step 11:** Correct Error 
 **Common Error’s** 
 - Speech-to-text api can make a mistake in the translation  
 - Translation from translation api may be inaccurate  
 
-**Step 12**
+**Step 12:**
 - Develop a Custom Dictionary/ Glossary for correcting Errors  
 - Increase accuracy of speech to text by using feature called “phrasehints” 
 - Specify words or phrases that are more likely to appear in the video - especially for uncommon words or proper nouns.  
