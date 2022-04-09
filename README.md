@@ -44,8 +44,8 @@ B. Enable these Google Cloud APIs:
 > Moviepy,
 > Pydub,
 > Google-Speech-to-Text-API,
-> Google-Translte-API,
-> Google-Text-to-Speech,
+> Google-Translation-API,
+> Google-Text-to-Speech-API,
 > Google-Cloud-Storage,
 > TensorFlow 
 
