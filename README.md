@@ -92,7 +92,7 @@ B. Enable these Google Cloud APIs:
 
 **Step 11:** Correct Error 
 **Common Error’s** 
-- Speech-to-text api can make a mistake in the translation  
+- Speech-to-text api can make a mistake in the transcription   
 - Translation from translation api may be inaccurate  
 
 **Step 12:**
