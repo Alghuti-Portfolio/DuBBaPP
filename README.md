@@ -13,6 +13,7 @@ video clip below and saves it as a wav. The app also uploads the audio file in a
 
 https://user-images.githubusercontent.com/103196346/162507951-9334ea59-e973-4355-913c-5ceb2ba248e6.mp4
 
+[English Transcript](accounts/downLoad/audioDir/outputDir/tmp/videoFileen.json)
 
 After completing the setup requirments below, you should be able to run:
 
